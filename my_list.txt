@@ -1,0 +1,5 @@
+"Pizza"
+"Burgers"
+"Thali"
+"Chicken butter masala"
+"Sushi"
